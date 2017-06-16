@@ -13,6 +13,21 @@
 **Today's Progress**: Half-finished my Tribute Page for [freeCodeCamp challenge](https://www.freecodecamp.com/challenges/build-a-tribute-page).
 
 **Thoughts:** This is my first day of the challenge and I already struggled with CSS and Bootstrap when tried to finish my Tribute Page. Honestly, I coded my Tribute Page based on the example provided by freeCodeCamp and it used Bootstrap 3. I went with Bootstrap 4 at first, but felt really confused because what I coded was not same with the example. So, I decided to use Bootstrap 3 and managed to get my Tribute Page half-finished.
-Quote for today: "There is always a first time for everything."
 
-**Link(s) to work:** [A Tribute Page to Charles P. Thacker - freeCodeCamp 2017](https://codepen.io/e-brahim/full/owzxGe/)
+**Quote for today:**
+>"There is always a first time for everything."
+>-- [Melissa de la Cruz](https://en.wikipedia.org/wiki/Melissa_de_la_Cruz)
+
+**Link(s) to work:** [A Tribute Page to Charles P. Thacker - freeCodeCamp 2017](https://codepen.io/e-brahim/pen/owzxGe/)
+
+### Day 2: Friday, June 16, 2017
+
+**Today's Progress**: Finished my Tribute Page for [freeCodeCamp challenge](https://www.freecodecamp.com/challenges/build-a-tribute-page).
+
+**Thoughts:** This is the easy part of the page, but need a lot of time to code. Can not wait for Build a Personal Portfolio Webpage Challenge.
+
+**Quote for today:**
+>"For indeed, with hardship [will be] ease. Indeed, with hardship [will be] ease."
+>-- Quran [94:5-6](https://quran.com/94/5-6?translations=20)
+
+**Link(s) to work:** [A Tribute Page to Charles P. Thacker - freeCodeCamp 2017](https://codepen.io/e-brahim/pen/owzxGe/)
