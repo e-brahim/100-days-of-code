@@ -31,3 +31,15 @@
 >-- Quran [94:5-6](https://quran.com/94/5-6?translations=20)
 
 **Link(s) to work:** [A Tribute Page to Charles P. Thacker - freeCodeCamp 2017](https://codepen.io/e-brahim/pen/owzxGe/)
+
+### Day 3: Saturday, June 17, 2017
+
+**Today's Progress**: Took my first step into building a Personal Portfolio Webpage for [freeCodeCamp challenge](https://www.freecodecamp.com/challenges/build-a-personal-portfolio-webpage). Finished building my own vertical sticky navigation bar with a few things to do left.
+
+**Thoughts:** First step is always hard. Why did the link text still be underlined even though the text-decoration property has been set to 'none'?
+
+**Quote for today:**
+>"I am still learning."
+>-- [Michaelangelo](https://en.wikipedia.org/wiki/Michelangelo)
+
+**Link(s) to work:** [Personal Portfolio](https://codepen.io/e-brahim/pen/qjRrbM)
