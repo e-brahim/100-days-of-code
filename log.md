@@ -65,3 +65,15 @@
 >-- [Javanese Proverb](https://udayanimenulis.wordpress.com/2014/10/19/alon-alon-asal-kelakon/)
 
 **Link(s) to work:** [Personal Portfolio](https://codepen.io/e-brahim/pen/qjRrbM)
+
+### Day 6: Wednesday, June 21, 2017 (skipped one day)
+
+**Today's Progress**: Slow progress on Personal Portfolio.
+
+**Thoughts:** Still confused about what my portfolio page will be. Only coded half an hour, tomorrow must be at least one and half an hour.
+
+**Quote for today:**
+>"Alon-alon asal kelakon."
+>-- [Javanese Proverb](https://udayanimenulis.wordpress.com/2014/10/19/alon-alon-asal-kelakon/)
+
+**Link(s) to work:** [Personal Portfolio](https://codepen.io/e-brahim/pen/qjRrbM)
