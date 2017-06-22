@@ -77,3 +77,15 @@
 >-- [Javanese Proverb](https://udayanimenulis.wordpress.com/2014/10/19/alon-alon-asal-kelakon/)
 
 **Link(s) to work:** [Personal Portfolio](https://codepen.io/e-brahim/pen/qjRrbM)
+
+### Day 7: Thursday, June 22, 2017
+
+**Today's Progress**: Slow progress on Personal Portfolio. Worked the (textual) contents.
+
+**Thoughts:** Still confused about the design. Only coded half an hour, tomorrow must be at least TWO hours.
+
+**Quote for today:**
+>"“Fear is the glue that keeps you stuck. Faith is the solvent that sets you free.” "
+>-- [Shannon L. Alder](http://www.goodreads.com/author/show/1391130.Shannon_L_Alder)
+
+**Link(s) to work:** [Personal Portfolio](https://codepen.io/e-brahim/pen/qjRrbM)
