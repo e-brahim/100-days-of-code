@@ -4,13 +4,13 @@
 
 ###### # Preparing [#100DaysOfCode](https://twitter.com/hashtag/100daysofcode) Challenge
 
-**Today's Progress**: Set things to do in this challenge: [freeCodeCamp](https://www.freecodecamp.com) - [Front End Development Certification](https://www.freecodecamp.com/map).
+**Today's Progress:** Set things to do in this challenge: [freeCodeCamp](https://www.freecodecamp.com) - [Front End Development Certification](https://www.freecodecamp.com/map).
 
 **Thoughts:** freeCodeCamp is my very first gateway to Web Development. As a (Desktop) Software Engineer, I hope getting certificate from freeCodeCamp can make me pursue my interest in Web Development.
 
 ### Day 1: Thursday, June 15, 2017
 
-**Today's Progress**: Half-finished my Tribute Page for [freeCodeCamp challenge](https://www.freecodecamp.com/challenges/build-a-tribute-page).
+**Today's Progress:** Half-finished my Tribute Page for [freeCodeCamp challenge](https://www.freecodecamp.com/challenges/build-a-tribute-page).
 
 **Thoughts:** This is my first day of the challenge and I already struggled with CSS and Bootstrap when tried to finish my Tribute Page. Honestly, I coded my Tribute Page based on the example provided by freeCodeCamp and it used Bootstrap 3. I went with Bootstrap 4 at first, but felt really confused because what I coded was not same with the example. So, I decided to use Bootstrap 3 and managed to get my Tribute Page half-finished.
 
@@ -22,7 +22,7 @@
 
 ### Day 2: Friday, June 16, 2017
 
-**Today's Progress**: Finished my Tribute Page for [freeCodeCamp challenge](https://www.freecodecamp.com/challenges/build-a-tribute-page).
+**Today's Progress:** Finished my Tribute Page for [freeCodeCamp challenge](https://www.freecodecamp.com/challenges/build-a-tribute-page).
 
 **Thoughts:** This is the easy part of the page, but need a lot of time to code. Can not wait for Build a Personal Portfolio Webpage Challenge.
 
@@ -34,7 +34,7 @@
 
 ### Day 3: Saturday, June 17, 2017
 
-**Today's Progress**: Took my first step into building a Personal Portfolio Webpage for [freeCodeCamp challenge](https://www.freecodecamp.com/challenges/build-a-personal-portfolio-webpage). Finished building my own vertical sticky navigation bar with a few things to do left.
+**Today's Progress:** Took my first step into building a Personal Portfolio Webpage for [freeCodeCamp challenge](https://www.freecodecamp.com/challenges/build-a-personal-portfolio-webpage). Finished building my own vertical sticky navigation bar with a few things to do left.
 
 **Thoughts:** First step is always hard. Why did the link text still be underlined even though the text-decoration property has been set to 'none'?
 
@@ -46,7 +46,7 @@
 
 ### Day 4: Sunday, June 18, 2017
 
-**Today's Progress**: Tried [TOP CAREER CODE CHALLENGE SUMMER 2017](http://www.topcareer.jp/inter/code2017/). Revisited Java: Iterator, Date, Time, String, Regex/
+**Today's Progress:** Tried [TOP CAREER CODE CHALLENGE SUMMER 2017](http://www.topcareer.jp/inter/code2017/). Revisited Java: Iterator, Date, Time, String, Regex/
 
 **Thoughts:** Realized that I am very far away from competitive programming.
 
@@ -56,7 +56,7 @@
 
 ### Day 5: Monday, June 19, 2017
 
-**Today's Progress**: Learned fun stuffs from reworking navigation bar on my Portfolio Page. Next: Make it responsive and dive into design and contents.
+**Today's Progress:** Learned fun stuffs from reworking navigation bar on my Portfolio Page. Next: Make it responsive and dive into design and contents.
 
 **Thoughts:** Finally, I fixed the "underlined issue". Excited when (just) found this great resource of web development: https://www.w3schools.com/howto/.
 
@@ -68,7 +68,7 @@
 
 ### Day 6: Wednesday, June 21, 2017 (skipped one day)
 
-**Today's Progress**: Slow progress on Personal Portfolio.
+**Today's Progress:** Slow progress on Personal Portfolio.
 
 **Thoughts:** Still confused about what my portfolio page will be. Only coded half an hour, tomorrow must be at least one and half an hour.
 
@@ -80,9 +80,28 @@
 
 ### Day 7: Thursday, June 22, 2017
 
-**Today's Progress**: Slow progress on Personal Portfolio. Worked the (textual) contents.
+**Today's Progress:** Slow progress on Personal Portfolio. Worked the (textual) contents.
 
 **Thoughts:** Still confused about the design. Only coded half an hour, tomorrow must be at least TWO hours.
+
+**Quote for today:**
+>"“Fear is the glue that keeps you stuck. Faith is the solvent that sets you free.” "
+>-- [Shannon L. Alder](http://www.goodreads.com/author/show/1391130.Shannon_L_Alder)
+
+**Link(s) to work:** [Personal Portfolio](https://codepen.io/e-brahim/pen/qjRrbM)
+
+### Day 8: Friday, June 23, 2017
+
+**Today's Progress:** Played with fixed background image and transparent div property. *(time debt: 1 hour)*
+
+**Sources:**
+* [Perfect Full Page Background Image](https://css-tricks.com/perfect-full-page-background-image/)
+* [CSS Background fit every resolution](https://stackoverflow.com/questions/20056400/css-background-fit-every-resolution)
+* [The Best Full Screen Background Image Sizes for Web Design](https://www.webmalama.com/the-best-full-screen-background-image-sizes-for-web-design/)
+* [How to make the background DIV only transparent using CSS](https://stackoverflow.com/questions/7565384/how-to-make-the-background-div-only-transparent-using-css)
+* http://cssreference.io
+
+**Thoughts:** I think I need a grayscale background image.
 
 **Quote for today:**
 >"“Fear is the glue that keeps you stuck. Faith is the solvent that sets you free.” "
