@@ -108,3 +108,18 @@
 >-- [Shannon L. Alder](http://www.goodreads.com/author/show/1391130.Shannon_L_Alder)
 
 **Link(s) to work:** [Personal Portfolio](https://codepen.io/e-brahim/pen/qjRrbM)
+
+### Day 9: Saturday, June 24, 2017
+
+**Today's Progress:** Coded overlayed background image and About Me static contents. *(time debt: 1 hour)*
+
+**Sources:**
+* [CSS linear-gradient()](https://developer.mozilla.org/en-US/docs/Web/CSS/linear-gradient)
+
+**Thoughts:** One thing at a time...
+
+**Quote for today:**
+>"“If you chase two rabbits, you will catch neither one.” "
+>-- Russian proverb
+
+**Link(s) to work:** [Personal Portfolio](https://codepen.io/e-brahim/pen/qjRrbM)
