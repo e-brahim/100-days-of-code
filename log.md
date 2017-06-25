@@ -119,7 +119,19 @@
 **Thoughts:** One thing at a time...
 
 **Quote for today:**
->"“If you chase two rabbits, you will catch neither one.” "
+>"If you chase two rabbits, you will catch neither one."
 >-- Russian proverb
+
+**Link(s) to work:** [Personal Portfolio](https://codepen.io/e-brahim/pen/qjRrbM)
+
+### Day 10: Sunday, June 25, 2017
+
+**Today's Progress:** Added random stuffs to my portfolio page. *(time debt: 1 hour)*
+
+**Thoughts:** Get bored. I am going to postpone the portfolio and dive in to Javascript instead.
+
+**Quote for today:**
+>"When I get bored, I get into trouble."
+>-- [Angie Harmon](https://twitter.com/angie_harmon)
 
 **Link(s) to work:** [Personal Portfolio](https://codepen.io/e-brahim/pen/qjRrbM)
