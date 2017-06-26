@@ -135,3 +135,13 @@
 >-- [Angie Harmon](https://twitter.com/angie_harmon)
 
 **Link(s) to work:** [Personal Portfolio](https://codepen.io/e-brahim/pen/qjRrbM)
+
+### Day 11: Monday, June 26, 2017
+
+**Today's Progress:** (Re)Learn JS on FCC: basic to functions. *(time debt: 1 hour)*
+
+**Thoughts:** Pretty easy. Cannot wait to take the Algorithm section.
+
+**Quote for today:**
+>"All things are difficult before they are easy."
+>-- [Dr. Thomas Fuller](https://en.wikipedia.org/wiki/Thomas_Fuller)
