@@ -138,10 +138,20 @@
 
 ### Day 11: Monday, June 26, 2017
 
-**Today's Progress:** (Re)Learn JS on FCC: basic to functions. *(time debt: 1 hour)*
+**Today's Progress:** (Re)Learnt JS on FCC: basic to functions. *(time debt: 1 hour)*
 
 **Thoughts:** Pretty easy. Cannot wait to take the Algorithm section.
 
 **Quote for today:**
 >"All things are difficult before they are easy."
 >-- [Dr. Thomas Fuller](https://en.wikipedia.org/wiki/Thomas_Fuller)
+
+### Day 12: Monday, June 27, 2017
+
+**Today's Progress:** Learnt JS on FCC: functions to for loops. *(time debt: 1 hour)*
+
+**Thoughts:** About 2 days to algorithm.
+
+**(Random) Quote for today:**
+>"We can easily forgive a child who is afraid of the dark; the real tragedy of life is when men are afraid of the light."
+>-- [Plato](https://en.wikipedia.org/wiki/Plato)
