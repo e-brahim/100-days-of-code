@@ -146,7 +146,7 @@
 >"All things are difficult before they are easy."
 >-- [Dr. Thomas Fuller](https://en.wikipedia.org/wiki/Thomas_Fuller)
 
-### Day 12: Monday, June 27, 2017
+### Day 12: Tuesday, June 27, 2017
 
 **Today's Progress:** Learnt JS on FCC: functions to for loops. *(time debt: 1 hour)*
 
@@ -155,3 +155,13 @@
 **(Random) Quote for today:**
 >"We can easily forgive a child who is afraid of the dark; the real tragedy of life is when men are afraid of the light."
 >-- [Plato](https://en.wikipedia.org/wiki/Plato)
+
+### Day 13: Wednesday, June 28, 2017
+
+**Today's Progress:** Learnt JS on FCC: while loop to OO and functional programming. *(time debt: 1 hour)*
+
+**Thoughts:** About 1 day to algorithm.
+
+**(Random) Quote for today:**
+>"We read to know we're not alone."
+>-- [ William Nicholson](http://www.goodreads.com/author/show/46130.William_Nicholson), [Shadowlands](http://www.goodreads.com/work/quotes/3154690-shadowlands)
