@@ -162,6 +162,16 @@
 
 **Thoughts:** About 1 day to algorithm.
 
-**(Random) Quote for today:**
+**Quote for today:**
 >"We read to know we're not alone."
->-- [ William Nicholson](http://www.goodreads.com/author/show/46130.William_Nicholson), [Shadowlands](http://www.goodreads.com/work/quotes/3154690-shadowlands)
+>-- [William Nicholson](http://www.goodreads.com/author/show/46130.William_Nicholson), [Shadowlands](http://www.goodreads.com/work/quotes/3154690-shadowlands)
+
+### Day 14: Thursday, June 29, 2017
+
+**Today's Progress:** Learnt JS on FCC: array manipulation to basic algorithm scripting. *(time debt: 1 hour)*
+
+**Thoughts:** I used to code with C++. Algorithmic challenges felt easier with JS.
+
+**(Random) Quote for today:**
+>"If you want to lift yourself up, lift up someone else."
+>-- [Booker T. Washington](https://www.biography.com/people/booker-t-washington-9524663)
