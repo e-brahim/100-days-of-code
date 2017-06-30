@@ -175,3 +175,13 @@
 **(Random) Quote for today:**
 >"If you want to lift yourself up, lift up someone else."
 >-- [Booker T. Washington](https://www.biography.com/people/booker-t-washington-9524663)
+
+### Day 15: Friday, June 30, 2017
+
+**Today's Progress:** Learnt JS on FCC: finished about three quarters of Basic Algorithm Scripting. *(time debt: 1 hour)*
+
+**Thoughts:** The challenges began to feel more challenging. I love it!
+
+**Quote for today:**
+>"I'm always looking for a new challenge. There are a lot of mountains to climb out there. When I run out of mountains, I'll build a new one."
+>-- [Sylvester Stallone](https://www.biography.com/people/sylvester-stallone-9491745)
