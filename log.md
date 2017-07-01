@@ -185,3 +185,13 @@
 **Quote for today:**
 >"I'm always looking for a new challenge. There are a lot of mountains to climb out there. When I run out of mountains, I'll build a new one."
 >-- [Sylvester Stallone](https://www.biography.com/people/sylvester-stallone-9491745)
+
+### Day 16: Saturday, July 1, 2017
+
+**Today's Progress:** Learnt JS on FCC: finished Basic Algorithm Scripting. *(time debt: 1 hour)*
+
+**Thoughts:** Basic Algorithm Scripting is all fun! It's time to dive into JSON APIs and Ajax.
+
+**(Random) Quote for today:**
+>"Do not wait to strike till the iron is hot; but make it hot by striking."
+>-- [William B. Sprague](https://en.wikipedia.org/wiki/William_Buell_Sprague)
