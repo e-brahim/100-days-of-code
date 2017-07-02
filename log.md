@@ -195,3 +195,15 @@
 **(Random) Quote for today:**
 >"Do not wait to strike till the iron is hot; but make it hot by striking."
 >-- [William B. Sprague](https://en.wikipedia.org/wiki/William_Buell_Sprague)
+
+### Day 17: Sunday, July 2, 2017
+
+**Today's Progress:** Finished JSON APIs and Ajax challenges. Started building Random Quote Machine. *(time debt: 30 minutes)*
+
+**Thoughts:** Again, struggling with design. Decided to use example project's as my base design.
+
+**Quote for today:**
+>“Don’t ever let somebody tell you you can’t do something, not even me. Alright? You dream, you gotta protect it. People can’t do something themselves, they wanna tell you you can’t do it. If you want something, go get it. Period.”
+>-- [Chris Gardner](http://www.chrisgardnermedia.com/chris-gardner-biography.html), from [The Pursuit of Happyness](http://www.imdb.com/title/tt0454921/)
+
+**Link(s) to work:** [Random Movie Quotes Machine](https://codepen.io/e-brahim/pen/qjoVqj)
