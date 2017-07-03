@@ -207,3 +207,13 @@
 >-- [Chris Gardner](http://www.chrisgardnermedia.com/chris-gardner-biography.html), from [The Pursuit of Happyness](http://www.imdb.com/title/tt0454921/)
 
 **Link(s) to work:** [Random Movie Quotes Machine](https://codepen.io/e-brahim/pen/qjoVqj)
+
+### Day 18: Monday, July 3, 2017
+
+**Today's Progress:** Worked 3 challenges of Intermediate Algo Scripting. *(time debt: 30 minutes)*
+
+**Thoughts:** Now I know why it's called Intermediate...
+
+**Quote for today:**
+>“It is never too late to be what you might have been..”
+>-- [George Eliot](https://www.biography.com/people/george-eliot-9286017)
