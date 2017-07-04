@@ -214,6 +214,16 @@
 
 **Thoughts:** Now I know why it's called Intermediate...
 
-**Quote for today:**
+**(Random) Quote for today:**
 >“It is never too late to be what you might have been..”
 >-- [George Eliot](https://www.biography.com/people/george-eliot-9286017)
+
+### Day 19: Tuesday, July 4, 2017
+
+**Today's Progress:** Coded 2 challenges of Intermediate Algo Scripting. Played with String. *(time debt: 30 minutes)*
+
+**Thoughts:** Played with string is fun! By the way, I coded on train in my way home from Google Cloud OnBoard Training, Jakarta.
+
+**Quote for today:**
+>“Difficult times often bring out the best in people.”
+>-- [Bernie Sanders](https://www.biography.com/people/bernie-sanders-02032016)
