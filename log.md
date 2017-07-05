@@ -227,3 +227,13 @@
 **Quote for today:**
 >“Difficult times often bring out the best in people.”
 >-- [Bernie Sanders](https://www.biography.com/people/bernie-sanders-02032016)
+
+### Day 20: Wednesday, July 5, 2017
+
+**Today's Progress:** 5 more challenges of Intermediate Algo Scripting done! Tuned my skill in JS Object. *(time debt: 30 minutes)*
+
+**Thoughts:** Keep on istiqomah!
+
+**Quote for today:**
+>“Just keep going. Be Patient. Results take time, but if you're consistent, they will come.”
+>-- runningonrealfood.com
