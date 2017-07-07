@@ -247,3 +247,14 @@
 **Quote for today:**
 >“Nothing is so painful to the human mind as a great and sudden change.” 
 >-- [Mary Wollstonecraft Shelley](http://www.goodreads.com/author/show/11139.Mary_Wollstonecraft_Shelley), [Frankenstein](http://www.goodreads.com/work/quotes/4836639)
+
+### Day 22: Friday, July 7, 2017
+
+**Today's Progress:** (Re)Learnt Regular Expression from RegexOne. Little coding on my Random Movie Quotes Generator.
+
+**Thoughts:** Learn and learn more RegExp!
+
+**Quote for today:**
+>“Success is no accident. It is hard work, perseverance, learning, studying, sacrifice and most of all, love of what you are doing or learning to do.
+Read more at: https://www.brainyquote.com/quotes/topics/topic_learning.html” 
+>-- [Pele](https://www.biography.com/people/pel%C3%A9-39221)
