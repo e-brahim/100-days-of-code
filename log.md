@@ -237,3 +237,13 @@
 **Quote for today:**
 >“Just keep going. Be Patient. Results take time, but if you're consistent, they will come.”
 >-- runningonrealfood.com
+
+### Day 21: Thursday, July 6, 2017
+
+**Today's Progress:** Solved 2 challenges of Intermediate Algo Scripting. Got beaten by RegExp.
+
+**Thoughts:** Need to dive into RegExp and its implementation on JS.
+
+**Quote for today:**
+>“Nothing is so painful to the human mind as a great and sudden change.” 
+>-- [Mary Wollstonecraft Shelley](http://www.goodreads.com/author/show/11139.Mary_Wollstonecraft_Shelley), [Frankenstein](http://www.goodreads.com/work/quotes/4836639)
