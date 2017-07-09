@@ -255,6 +255,15 @@
 **Thoughts:** Learn and learn more RegExp!
 
 **Quote for today:**
->“Success is no accident. It is hard work, perseverance, learning, studying, sacrifice and most of all, love of what you are doing or learning to do.
-Read more at: https://www.brainyquote.com/quotes/topics/topic_learning.html” 
+>“Success is no accident. It is hard work, perseverance, learning, studying, sacrifice and most of all, love of what you are doing or learning to do.” 
 >-- [Pele](https://www.biography.com/people/pel%C3%A9-39221)
+
+### Day 23: Sunday, July 9, 2017 (skipped one day)
+
+**Today's Progress:** Finished quoteObjects, 1 Inter-Algo-Script challenge, Learnt Regex.
+
+**Thoughts:** Learn, learn, and learn!
+
+**Quote for today:**
+>“Study hard what interests you the most in the most undisciplined, irreverent and original manner possible.” 
+>-- [Richard Feynman](https://www.biography.com/people/richard-feynman-9294220)
