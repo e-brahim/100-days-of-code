@@ -267,3 +267,13 @@
 **Quote for today:**
 >“Study hard what interests you the most in the most undisciplined, irreverent and original manner possible.” 
 >-- [Richard Feynman](https://www.biography.com/people/richard-feynman-9294220)
+
+### Day 24: Monday, July 10, 2017
+
+**Today's Progress:** Finished 2 Inter-Algo-Script challenge, Learnt more Regex.
+
+**Thoughts:** Jadi pengen belajar matematika (I didn't found the suitable English phrase for this. lol)
+
+**Quote for today:**
+>“Programming is one of the hardest branches of applied mathematics because it is also one of the hardest branches of engineering, and vice versa.” 
+>-- [Edsger W. Dijkstra](http://wiki.c2.com/?EwDijkstra)
