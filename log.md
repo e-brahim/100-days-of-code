@@ -277,3 +277,13 @@
 **Quote for today:**
 >“Programming is one of the hardest branches of applied mathematics because it is also one of the hardest branches of engineering, and vice versa.” 
 >-- [Edsger W. Dijkstra](http://wiki.c2.com/?EwDijkstra)
+
+### Day 25: Tuesday, July 11, 2017
+
+**Today's Progress:** Just random stuffs...
+
+**Thoughts:** Regexp, Random Movie Quotes Machine, Inter-Algo-Script, JS on codecademy.com...
+
+**Quote for today:**
+>“Spend time with people who bring out the best in you, not the stress in you.” 
+>-- http://notsalmon.com/2015/06/24/positive-quotes/
