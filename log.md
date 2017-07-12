@@ -287,3 +287,13 @@
 **Quote for today:**
 >“Spend time with people who bring out the best in you, not the stress in you.” 
 >-- http://notsalmon.com/2015/06/24/positive-quotes/
+
+### Day 26: Wednesday, July 12, 2017
+
+**Today's Progress:** Revisited Learn JS Course on codecademy
+
+**Thoughts:** Still Regexp, Random Movie Quotes Machine, Inter-Algo-Script, JS on codecademy.com...
+
+**Quote for today:**
+>“If you hear a voice within you say you cannot paint, then by all means paint and that voice will be silenced.”
+>-- [Vincent van Gogh](http://www.goodreads.com/author/show/34583.Vincent_van_Gogh)
