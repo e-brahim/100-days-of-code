@@ -290,10 +290,22 @@
 
 ### Day 26: Wednesday, July 12, 2017
 
-**Today's Progress:** Revisited Learn JS Course on codecademy
+**Today's Progress:** Revisited Learn JS Course on codecademy *(time debt: 25 minutes)*
 
 **Thoughts:** Still Regexp, Random Movie Quotes Machine, Inter-Algo-Script, JS on codecademy.com...
 
 **Quote for today:**
 >“If you hear a voice within you say you cannot paint, then by all means paint and that voice will be silenced.”
 >-- [Vincent van Gogh](http://www.goodreads.com/author/show/34583.Vincent_van_Gogh)
+
+### Day 27: Thursday, July 13, 2017
+
+**Today's Progress:** Finished Learn JS Course on codecademy. Tried to recoded Condensing Sentences from daily programmer. *(time debt: 15 minutes)*
+
+**Thoughts:** Still Regexp, Random Movie Quotes Machine, Inter-Algo-Script...
+
+**Quote for today:**
+>“Develop a passion for learning. If you do, you will never cease to grow.”
+>-- [Anthony J. D'Angelo](http://quotesabout.us/author/a/anthony-j-d-angelo)
+
+**Link(s) to work:** [condensentences.js](https://repl.it/J02U/3)
